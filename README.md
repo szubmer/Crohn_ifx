@@ -1,8 +1,8 @@
 # Crohn_ifx
-Params_labels.yaml：影像组学特征特征提取配置文件
-extract.py：影像组学特征特征提取代码
-selected_feature_index.npy：使用到的特征index
-test.py：测试代码
+Params_labels.yaml：Radiomics feature extraction profile
+extract.py：Radiomics feature extraction code
+selected_feature_index.npy：used feature index
+test.py：test code
 
 
 we will gradually update our code and description in the future...
